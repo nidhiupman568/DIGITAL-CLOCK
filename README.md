@@ -2,6 +2,8 @@
 
 🎉 Welcome to the **Digital Clock** project! 🎉 This sleek and functional tool displays the current time in a user-friendly and visually appealing format. Built with **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻, this digital clock is a great addition to any web page.
 
+Project Demo: https://nidhiupman568.github.io/DIGITAL-CLOCK/
+
 ## 📋 Description
 
 The **Digital Clock** 🕒 is a simple yet elegant web application that shows the current time in real-time. With its clean design and accurate timekeeping, it's perfect for anyone who wants to add a stylish clock to their website. Stay on top of the time with this handy tool! ⏲️
